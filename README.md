@@ -5,3 +5,8 @@ git clonehttps://github.com/0xShaswatGit22/PineconeRAG-Engine-LLM-Powered-Docume
 conda create -n medibot python=3.13.5 -y
 conda activate medibot
 pip install -r requirements.txt
+
+
+751264013520.dkr.ecr.eu-north-1.amazonaws.com/medicalbot
+
+
